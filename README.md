@@ -6,7 +6,7 @@ GitHub adalah jejaring sosial untuk code dan programming: ia bisa digunakan untu
 GitHub mulai digunakan secara luas oleh jurnalis data, menurut Paul Bradshaw, tiga alasan utamanya adalah:
 
 * Untuk menunjukkan bagaimana si jurnalis menganalisis data dan membuat kesimpulan (transparansi, akuntabilitas)
-* Untuk mempermudah orang lain berkolaborasi (misalnya, mereka bisa mebuat visualisasi yang baru, menemukan leads baru, atau menemukan persoalan berbeda dari data yang sama)
+* Untuk mempermudah orang lain berkolaborasi (misalnya, mereka bisa membuat visualisasi yang baru, menemukan leads baru, atau menemukan persoalan berbeda dari data yang sama)
 * Sebagai cara menemukan tools dan teknik yang berguna
 
 ## Contoh beberapa akun GitHub media dan jurnalis
